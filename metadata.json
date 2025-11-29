@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DB/DC Pension Strategy Calculator",
+  "description": "A comprehensive tool to simulate and compare Defined Benefit (DB) vs. Defined Contribution (DC) pension outcomes based on personal financial data and economic projections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
